@@ -10,3 +10,7 @@ whoami
 echo OWNED
 
 cat /etc/narnia_pass/narnia1
+
+
+LINK TO SLIDES:
+https://docs.google.com/presentation/d/1UbYPy0qtaavjXjbQp1vI1MkvCauogBWby--s2ePPBqA/edit?usp=sharing
